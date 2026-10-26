@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+node_modules/
+.DS_Store
+.Docker
+
+notebooks/.ipynb_checkpoints/
+dist/
+research/fusarium-linalool-supplement/data/*.zip
